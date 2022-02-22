@@ -1,0 +1,23 @@
+{
+  "name": "@dangojs/saber-button-test",
+  "title": "这是一个测试",
+  "description": "button 按钮的测试",
+  "type": "react-component",
+  "category": [],
+  "group": 0,
+  "homepage": "",
+  "repository": "",
+  "author": "Saber-Kurama",
+  "screenshot": "",
+  "package": {
+    "name": "@dangojs/saber-button-test",
+    "version": "latest",
+    "type": "npm",
+    "registry": "",
+    "peerDependencies": [
+      "react",
+      "react-dom",
+      "@arco-design/web-react"
+    ]
+  }
+}
